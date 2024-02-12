@@ -8,7 +8,7 @@
 
 - 🔭 I’ve previously worked on **Student Management System**
 
-- 🌱 I’m currently learning **I've recently mastered in programming languages such as C#, database management with Transact-SQL (T-SQL), and utilization of web technologies including ASP.NET, ASP.NET MVC, ADO.NET, as well as web styling technologies such as HTML, CSS, and JavaScript.**
+- 🌱 I've recently mastered **in programming languages such as C#, database management with Transact-SQL (T-SQL), and utilization of web technologies including ASP.NET, ASP.NET MVC, ADO.NET, as well as web styling technologies such as HTML, CSS, and JavaScript.**
 
 - 👯 I’m interested in collaborating on **Open-Source Web Development Initiative**
 
